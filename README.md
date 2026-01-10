@@ -37,7 +37,7 @@ First, download the project code and set up the isolated Python environment.
 
 ```bash
 # Clone this repository
-git clone https://github.com/[YOUR_USERNAME]/otsuka-supply-chain-analytics.git
+git clone https://github.com/[USERNAME_GITHUB_ANDA]/otsuka-supply-chain-analytics.git
 
 # Enter the project directory
 cd otsuka-supply-chain-analytics
