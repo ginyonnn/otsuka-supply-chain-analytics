@@ -27,7 +27,7 @@ First, download the project code and set up the isolated Python environment.
 
 ```bash
 # Clone this repository
-git clone https://github.com/[USERNAME_GITHUB_ANDA]/otsuka-supply-chain-analytics.git
+git clone https://github.com/ginyonnn/otsuka-supply-chain-analytics.git
 
 # Enter the project directory
 cd otsuka-supply-chain-analytics
@@ -38,6 +38,7 @@ source venv/bin/activate
 
 # Install all required dependencies
 pip install pandas sqlalchemy psycopg2-binary plotly streamlit watchdog faker
+```
 
 ### 2. Infrastructure Setup (Docker Database)
 We use Docker to spin up a clean PostgreSQL database server.
@@ -61,6 +62,7 @@ python scripts/etl_01_ingest_raw.py
 
 # Step C: Transform to Star Schema (Data Warehousing)
 python scripts/etl_02_transform_dwh.py
+```
 
 ### 4. Launch The Dashboard
 Finally, start the Streamlit application to visualize the data.
@@ -70,6 +72,7 @@ Finally, start the Streamlit application to visualize the data.
 python -m streamlit run dashboard_app.py
 
 The dashboard will automatically open in your default web browser.
+```
 
 # 📂 Project Structure
 
