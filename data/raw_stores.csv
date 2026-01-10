@@ -1,0 +1,51 @@
+store_id,store_name,city,region,channel
+S-001,Toko Restu Street - Berkah,Surabaya,Java,Hypermarket
+S-002,Toko Jaya Street - Jaya,Bandung,Java,Supermarket
+S-003,Toko Umar Street - Abadi,Surabaya,Java,Supermarket
+S-004,Toko Prasetyo Street - Makmur,Bandung,Java,Hypermarket
+S-005,Toko Samsul Street - Makmur,Surabaya,Java,Hypermarket
+S-006,Toko Hilda Street - Abadi,Bandung,Java,Hypermarket
+S-007,Toko Erik Street - Makmur,Surabaya,Java,Minimarket
+S-008,Toko Ganep Street - Abadi,Surabaya,Java,Minimarket
+S-009,Toko Cemeti Street - Makmur,Surabaya,Java,Minimarket
+S-010,Toko Dacin Street - Makmur,Jakarta Selatan,Java,Hypermarket
+S-011,Toko Pranawa Street - Berkah,Surabaya,Java,Minimarket
+S-012,Toko Fitriani Street - Abadi,Jakarta Pusat,Java,Supermarket
+S-013,Toko Gading Street - Abadi,Jakarta Pusat,Java,Minimarket
+S-014,Toko Balangga Street - Makmur,Medan,Sumatera,Hypermarket
+S-015,Toko Adinata Street - Jaya,Denpasar,Java,Minimarket
+S-016,Toko Lantar Street - Abadi,Medan,Sumatera,Supermarket
+S-017,Toko Mulyono Street - Makmur,Bandung,Java,Minimarket
+S-018,Toko Adikara Street - Makmur,Jakarta Selatan,Java,Hypermarket
+S-019,Toko Cakrabirawa Street - Berkah,Bandung,Java,Supermarket
+S-020,Toko Zulaikha Street - Makmur,Denpasar,Java,Supermarket
+S-021,Toko Elvin Street - Berkah,Denpasar,Java,Hypermarket
+S-022,Toko Nadia Street - Berkah,Bandung,Java,Minimarket
+S-023,Toko Jamil Street - Makmur,Surabaya,Java,Hypermarket
+S-024,Toko Pardi Street - Abadi,Surabaya,Java,Hypermarket
+S-025,Toko Zelaya Street - Abadi,Surabaya,Java,Minimarket
+S-026,Toko Bambang Street - Berkah,Jakarta Selatan,Java,Supermarket
+S-027,Toko Sabar Street - Abadi,Jakarta Selatan,Java,Supermarket
+S-028,Toko Harto Street - Berkah,Jakarta Pusat,Java,Hypermarket
+S-029,Toko Eva Street - Berkah,Surabaya,Java,Supermarket
+S-030,Toko Ganda Street - Berkah,Jakarta Pusat,Java,Supermarket
+S-031,Toko Simon Street - Berkah,Jakarta Selatan,Java,Hypermarket
+S-032,Toko Vivi Street - Jaya,Surabaya,Java,Minimarket
+S-033,Toko Lidya Street - Jaya,Surabaya,Java,Minimarket
+S-034,Toko Dacin Street - Jaya,Bandung,Java,Minimarket
+S-035,Toko Perkasa Street - Jaya,Denpasar,Java,Minimarket
+S-036,Toko Mulyanto Street - Makmur,Denpasar,Java,Supermarket
+S-037,Toko Jumari Street - Berkah,Jakarta Selatan,Java,Supermarket
+S-038,Toko Ivan Street - Makmur,Jakarta Selatan,Java,Hypermarket
+S-039,Toko Nurul Street - Jaya,Denpasar,Java,Supermarket
+S-040,Toko Jamalia Street - Abadi,Denpasar,Java,Hypermarket
+S-041,Toko Belinda Street - Jaya,Bandung,Java,Minimarket
+S-042,Toko Gamblang Street - Jaya,Bandung,Java,Hypermarket
+S-043,Toko Tari Street - Berkah,Denpasar,Java,Hypermarket
+S-044,Toko Jamil Street - Abadi,Jakarta Selatan,Java,Supermarket
+S-045,Toko Reza Street - Abadi,Denpasar,Java,Supermarket
+S-046,Toko Wardi Street - Berkah,Medan,Sumatera,Hypermarket
+S-047,Toko Jane Street - Makmur,Denpasar,Java,Supermarket
+S-048,Toko Wardi Street - Abadi,Bandung,Java,Hypermarket
+S-049,Toko Titi Street - Makmur,Bandung,Java,Supermarket
+S-050,Toko Darsirah Street - Makmur,Surabaya,Java,Hypermarket
