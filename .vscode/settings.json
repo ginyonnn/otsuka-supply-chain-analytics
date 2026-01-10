@@ -1,0 +1,22 @@
+{
+    "dbcode.connections": [
+        {
+            "connectionId": "Qht5zG7Z98dJtj3-687vA",
+            "name": "Otsuka Local",
+            "driver": "postgres",
+            "color": "#0074B3",
+            "connectionType": "host",
+            "host": "127.0.0.1",
+            "port": 5432,
+            "ssl": false,
+            "authMethod": "password",
+            "username": "user_otsuka",
+            "password": "",
+            "savePassword": "secretStorage",
+            "database": "otsuka_analytics",
+            "readOnly": false,
+            "postConnectionSqlType": "inline",
+            "connectionTimeout": 30
+        }
+    ]
+}
