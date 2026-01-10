@@ -1,6 +1,16 @@
+
+
 # Otsuka Supply Chain & Sales Analytics Platform (OS-CAP)
 
 **Otsuka Supply Chain & Sales Analytics Platform (OS-CAP)** is an End-to-End Business Intelligence solution designed to simulate the data complexities of an FMCG (Fast Moving Consumer Goods) enterprise. 
+
+<p align="center">
+  <img src="assets/dashboard1.png" width="100%" alt="Otsuka Dashboard Preview">
+</p>
+
+<p align="center">
+  <img src="assets/dashboard2.png" width="100%" alt="Otsuka Dashboard Preview">
+</p>
 
 This project demonstrates a complete Data Engineering pipeline: transforming raw transactional data into actionable strategic insights via a robust **ELT (Extract, Load, Transform)** architecture and a Real-time Dashboard. It is designed as a Proof of Concept (PoC) for scalable analytics suitable for high-volume environments like **PT Amerta Indah Otsuka**.
 
@@ -27,7 +37,7 @@ First, download the project code and set up the isolated Python environment.
 
 ```bash
 # Clone this repository
-git clone https://github.com/[USERNAME_GITHUB_ANDA]/otsuka-supply-chain-analytics.git
+git clone https://github.com/ginyonnn/otsuka-supply-chain-analytics.git
 
 # Enter the project directory
 cd otsuka-supply-chain-analytics
@@ -38,6 +48,7 @@ source venv/bin/activate
 
 # Install all required dependencies
 pip install pandas sqlalchemy psycopg2-binary plotly streamlit watchdog faker
+```
 
 ### 2. Infrastructure Setup (Docker Database)
 We use Docker to spin up a clean PostgreSQL database server.
@@ -48,6 +59,7 @@ docker compose up -d
 
 # Verify if the container 'otsuka_db_warehouse' is running
 docker ps
+```
 
 ### 3. Execute ELT Pipeline
 Run the Python scripts in order to generate data, ingest it, and transform it into the Data Warehouse.
@@ -61,6 +73,7 @@ python scripts/etl_01_ingest_raw.py
 
 # Step C: Transform to Star Schema (Data Warehousing)
 python scripts/etl_02_transform_dwh.py
+```
 
 ### 4. Launch The Dashboard
 Finally, start the Streamlit application to visualize the data.
@@ -70,6 +83,7 @@ Finally, start the Streamlit application to visualize the data.
 python -m streamlit run dashboard_app.py
 
 The dashboard will automatically open in your default web browser.
+```
 
 # 📂 Project Structure
 
