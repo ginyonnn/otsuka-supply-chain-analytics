@@ -102,4 +102,4 @@ A quick overview of the repository's file organization:
 Gina Purnama
 Magister Teknik Elektro (Layanan Teknologi Informasi) - Institut Teknologi Bandung
 
-Aspiring Business Intelligence & Data Modeler Supervisor with a strong background in Service Oriented Architecture and Data Engineering.
+Aspiring Business Intelligence & Data Modeler with a strong background in Service Oriented Architecture and Data Engineering.
